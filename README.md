@@ -12,4 +12,4 @@ The actual project consists of three different sections:
 - Raspberry Pi code, GUI part
 - Analysis code, run on any PC
 
-A link to the actual thesis will be provided in this project
+A link to the actual thesis will be provided in this project once the thesis is published
