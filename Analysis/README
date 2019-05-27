@@ -1,0 +1,11 @@
+This is the README for the Analysis
+
+Steps to go with the logged data
+1. Use readfromtext.py
+2. Use thingshappen.py
+3. Use LogSorter.py
+
+This gives log.csv and pdf of all the ID's. In case one particular ID is wanted to plot, the following code 
+can be used with the log.csv
+
+testingyetmore.py
