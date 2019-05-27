@@ -1,0 +1,8 @@
+This is the README file for the Firmware
+
+Arduino code can be foun in the root of Firware
+
+Needed library can be found from:
+https://github.com/latonita/arduino-canbus-monitor
+
+Via this library the Arduino can intreface can be used with SocketCAN. GUIs use this library as well
